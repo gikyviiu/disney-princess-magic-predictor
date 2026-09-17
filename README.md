@@ -1,4 +1,4 @@
-# Disney-Princess
+# disney-princess-magic-predictor
  This app analyzes data about Disney princesses and predicts if a princess has magical powers.
 
 The data used in this repo is the __Disney Princess Popularity Dataset__ dataset from __Kaggle__.
